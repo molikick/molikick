@@ -1,5 +1,5 @@
 - 👋 Hi, I am Iaroslav
-- 🌱 I’m currently on my 2nd year studying IoT and Embedded systems in Metropolia UAS
+- 🌱 I’m currently on my 3nd year studying IoT and Embedded systems in Metropolia UAS
 - 📫 You can reach me via email <a href="iaroslavem@gmail.com">iaroslavem@gmail.com</a>
 
 <!---
